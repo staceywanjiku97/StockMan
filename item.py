@@ -4,8 +4,8 @@ class Product:
         self.name = product_name
     def print_name(self):
         print(self.name)
-    def nothing():
-        print('Nothing')
+    def gen_id(self):
+        print('Generating id')
 
    
 if __name__ == "__main__":
